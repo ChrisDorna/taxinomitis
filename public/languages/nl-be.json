@@ -4,7 +4,7 @@
 
         "BACK": "Terug",
         "BACKTOPROJECT": "&lt; Terug naar project",
-        "BACKTOMODEL": "&lt; Back to model",
+        "BACKTOMODEL": "&lt; Terug naar model",
         "ERROR": "Fout:",
         "WARNING": "Waarschuwing:",
         "INFO": "Info:",
@@ -42,12 +42,12 @@
         },
         "TECH": {
             "TITLE": "Technologie",
-            "BODY": "Deze tool is volledig webgebaseerd en er is geen nood aan een installatie of complexe setup om hem te gebruiken. <br/><br/> Het is ontwikkeld om te gebruiken in scholen of codeerclubs voor kinderen en omvat een administratorpagina voor hun leerkracht of begeleider zodat deze een overzicht kan hebben over de verschillende studenten.<br/><br/>De tool is gebouwd door <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> gebruik makend van APIs van <a target='_blank' href='https://www.ibm.com/watson/developercloud/'>IBM Watson Developer Cloud</a>.",
+            "BODY": "Dit is een web based tool die je niet hoeft te installeren of een ingewikkelde setup vereist. <br/><br/> Het is ontwikkeld voor scholen of codeerclubs voor kinderen en heeft een administratorpagina voor leerkrachten en begeleiders zodat deze een overzicht hebben over de verschillende studenten.<br/><br/>De tool is gebouwd door <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> gebruik makend van APIs van <a target='_blank' href='https://www.ibm.com/watson/developercloud/'>IBM Watson Developer Cloud</a>.",
             "LOGIN": "Om te beginnen: "
         },
         "FURTHER": {
-            "TITLE": "Further learning",
-            "BODY": "Machine Learning for Kids is a useful tool for introducing children to how ML systems are trained, how they are used, and some of the real-world implications of AI applications. <br/><br/>For additional teaching and learning resources, including teaching the internals of ML systems, please see: "
+            "TITLE": "Verder leren",
+            "BODY": "Machine Learning for Kids is een goede omgeving om kinderen te leren hoe ML systemen worden getraind, hoe ze worden gebruikt, en kennis te laten maken met de gevolgen van kunstmatige intelligentie in het dagelijkse leven. <br/><br/>Voor meer lesmateriaal, zoals een uitleg over de werking van ML systemen, kan je terecht op: "
         }
     },
     "NEWS": {
